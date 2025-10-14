@@ -1,6 +1,6 @@
 # FoodKG: A Dataset and Knowledge Graph for Forest Foods & Nutrition
 
-> **Purpose:** This README provides English-language documentation, clear file/folder descriptions, reproduction instructions, and a step-by-step usage guide so reviewers (and users) can reproduce results and understand the repository contents.
+> **Purpose:** This README provides English-language documentation, clear file and folder descriptions, and a step-by-step usage guide for users.
 
 ---
 
